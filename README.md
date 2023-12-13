@@ -1,5 +1,6 @@
 # Generative-learning-Unleashing-artistic-creativity-leveraging-the-capabilities-of-DCGANs
 
+### This project is an academic project created by: Ismail Said / Ahmed Ben Aissa / Amine Chaabini
 ### In this project we are going to use Deep Convolutional Generative Adversarial Networks (DCGAN) to generate 3 types of images:
 
 ###  
